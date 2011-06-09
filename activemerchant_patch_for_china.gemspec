@@ -35,7 +35,7 @@ Gem::Specification.new do |s|
      "lib/active_merchant/billing/integrations/tenpay/return.rb",
      "lib/activemerchant_patch_for_china.rb",
      "lib/integrations_helper.rb",
-     "rails/init.rb",
+     "init.rb",
      "test/activemerchant_patch_for_china_test.rb",
      "test/test_helper.rb"
   ]
